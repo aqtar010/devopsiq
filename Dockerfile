@@ -1,2 +1,2 @@
 FROM hshar/webapp
-ADD ./devopsiq /var/www/html/devopsiq
+ADD ./devopsIQ /var/www/html/devopsIQ
